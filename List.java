@@ -40,6 +40,12 @@ class Link {
    next = myNext; 
   }
   
+  public int size() {
+    return count;
+  }
   
+  private class Node {
+    
+  }
   
 }
